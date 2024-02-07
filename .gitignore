@@ -7,7 +7,7 @@ node_modules
 # Ignore sessions
 sessions
 sessions_test
-.wwebjs_cache
+.wwebjs_cache 
 
 # Ignore logs
 logs
