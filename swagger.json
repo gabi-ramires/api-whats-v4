@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "WhatsApp API",
-    "description": "API Wrapper for WhatsAppWebJS",
+    "description": "API Wrapper for WhatsAppWebJS 2024",
     "version": "1.0.0"
   },
   "host": "",
